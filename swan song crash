@@ -1,0 +1,937 @@
+every time i get down, and the swan song work the game crash, happend to all my friends.
+///
+----------------------------------------------------------------------
+
+Sat Jun 10 14:37:00 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.71.251
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Wed Jun 14 11:42:40 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Wed Jun 14 11:45:37 2017
+
+
+Application has crashed: C++ exception
+attempt to index a boolean value
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Wed Jun 14 11:54:45 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+Script stack:
+         set_mask_visibility()  lib/units/beings/player/playerinventory.lua:701     
+      _reset_mask_visibility()  lib/units/player_team/teamaiinventory.lua:111       
+                                lib/units/player_team/teamaiinventory.lua:22        
+                            ()  =(tail                                              
+                      call):-1                                                      
+lib/managers/dynamicresourcemanager.lua:214  ()                                                  
+                        =(tail  call):-1                                            
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Thu Jun 15 12:29:36 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+Script stack:
+         add_mugshot_by_unit()  lib/managers/hudmanager.lua:965                     
+                    set_unit()  lib/managers/criminalsmanager.lua:359               
+                                lib/managers/criminalsmanager.lua:900               
+                            ()  =(tail                                              
+                      call):-1  call_next_update_functions()                        
+      lib/setups/setup.lua:183  update()                                            
+      lib/setups/setup.lua:698  update()                                            
+  lib/setups/gamesetup.lua:646  update()                                            
+lib/setups/networkgamesetup.lua:21                                                      
+core/lib/setups/coresetup.lua:537  ()                                                  
+                        =(tail  call):-1                                            
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Fri Jun 16 21:46:28 2017
+
+
+Application has crashed: C++ exception
+[string "lib/units/player_team/logics/teamailogictra..."]:87: attempt to index a nil value
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlRunOnceBeginInitialize                           
+                         ntdll  (???)     RtlAllocateHeap                                     
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jun 18 13:06:59 2017
+
+
+Application has crashed: C++ exception
+attempt to index a number value
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Mon Jun 19 13:50:32 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Mon Jun 19 16:45:28 2017
+
+
+Application has crashed: C++ exception
+mods/WolfHUD/lua/GameInfoManager.lua:3: bad argument #3 to 'format' (string expected, got table)
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlRunOnceBeginInitialize                           
+                         ntdll  (???)     RtlAllocateHeap                                     
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Mon Jun 19 17:41:28 2017
+
+
+Application has crashed: C++ exception
+mods/WolfHUD/lua/GameInfoManager.lua:3: bad argument #3 to 'format' (string expected, got table)
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlAllocateHeap                                     
+                         ntdll  (???)     RtlFreeHeap                                         
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Mon Jun 19 17:49:09 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Mon Jun 19 20:12:38 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Fri Jun 23 15:08:41 2017
+
+
+Application has crashed: C++ exception
+[string "lib/units/enemies/cop/actions/lower_body/co..."]:1829: attempt to index field '?' (a nil value)
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Fri Jun 23 15:09:56 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Fri Jun 23 15:10:57 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Fri Jun 23 15:12:33 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Fri Jun 23 15:14:33 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Sat Jun 24 14:28:23 2017
+
+
+Application has crashed: C++ exception
+[string "lib/units/equipment/ecm_jammer/ecmjammerbas..."]:130: attempt to index a nil value
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jun 25 14:02:06 2017
+
+
+Application has crashed: C++ exception
+[string "lib/units/player_team/logics/teamailogictra..."]:87: attempt to index a nil value
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlRunOnceBeginInitialize                           
+                         ntdll  (???)     RtlAllocateHeap                                     
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jun 25 17:26:47 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jun 25 22:47:42 2017
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.72.257
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
+
+
+
+----------------------------------------------------------------------
+
+Thu Jun 29 21:34:51 2017
+
+
+Application has crashed: C++ exception
+[string "lib/units/player_team/logics/teamailogicass..."]:36: attempt to index a nil value
+
+
+
+SCRIPT STACK
+
+
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     zip_get_name                                        
+                         ntdll  (???)     RtlAllocateHeap                                     
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Main
+
+-------------------------------
+
+System information:
+	Application version : 1.73.269
+	CPU : AMD Phenom(tm) 8750 Triple-Core Processor (2 cores); SSE; SSE2; SSE3
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GTX 1060 6GB / nvldumd.dll[22.21.13.8233]
+	Language : @ID4176958b9b2622ce@
+	Memory :     4095MB 372KB
+	OS : 6.2.9200 () 0x100-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Realtek Semiconductor Corp. (Altavoces (Realtek High Definition Audio))
